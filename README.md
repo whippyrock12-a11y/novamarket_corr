@@ -4,7 +4,7 @@ Este repositorio contiene el análisis exploratorio y estadístico realizado par
 El proyecto utiliza técnicas estadísticas avanzadas (Pearson, Spearman, Punto-Biserial y V de Cramér) para validar hipótesis de negocio mediante evidencia numérica y visual.
 
 **📂 Contenido del Repositorio**
-NovaMarket_Correlation_Analysis.ipynb: Notebook principal que incluye la limpieza de datos, visualización de relaciones (Heatmaps/Pairplots) y cálculo de coeficientes estadísticos.
+8_3_Reporte_de_análisis_de_correlación_NovaMarket.ipynb: Notebook principal que incluye la limpieza de datos, visualización de relaciones (Heatmaps/Pairplots) y cálculo de coeficientes estadísticos.
 
 nova_market_activity.csv: Dataset con métricas de visitas, compras, gasto publicitario, satisfacción y perfiles demográficos.
 
